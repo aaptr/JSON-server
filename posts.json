@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "createdAt": "2024-10-05",
+    "title": "Understanding JavaScript",
+    "text": "JavaScript is a versatile programming language used for both front-end and back-end development. It powers millions of websites and applications worldwide, making it one of the most in-demand skills for developers today.",
+    "image": "https://cdn.prod.website-files.com/6449405754e757db07f25327/65cadd0f25722942a3ce134b_logos_javascript.webp",
+    "author": "John Doe",
+    "cardType": "large"
+  },
+  {
+    "id": 2,
+    "createdAt": "2024-10-04",
+    "title": "The Rise of AI",
+    "text": "Artificial Intelligence is transforming industries across the board, from healthcare to finance. As AI systems grow more sophisticated, they promise to automate tasks, optimize processes, and generate new insights.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRp3bd54o96cugdLpRIApdud2ATq-IXcVjWLg&s",
+    "author": "Jane Smith",
+    "cardType": "medium"
+  },
+  {
+    "id": 3,
+    "createdAt": "2024-10-03",
+    "title": "Blockchain Explained",
+    "text": "Blockchain is a distributed ledger technology that enables secure, transparent, and tamper-proof transactions. It’s the backbone of cryptocurrencies like Bitcoin and is finding new applications in sectors such as supply chain management and digital identity.",
+    "image": "https://blog.consortium21.com/content/images/2022/07/blockchain.jpg",
+    "author": "Michael Johnson",
+    "cardType": "medium"
+  },
+  {
+    "id": 4,
+    "createdAt": "2024-10-02",
+    "title": "The Future of Space Travel",
+    "text": "Space travel is evolving rapidly, with private companies like SpaceX and Blue Origin pushing the boundaries. These advancements could make human settlements on other planets a reality within the next few decades.",
+    "image": "https://media.rabobank.com/m/41031437e4f2e6e6/original/1029006048.jpg",
+    "author": "Alice Thompson",
+    "cardType": "medium"
+  },
+  {
+    "id": 5,
+    "createdAt": "2024-10-01",
+    "title": "Quantum Computing Breakthroughs",
+    "text": "Quantum computers are making breakthroughs that could revolutionize fields such as cryptography and materials science. Unlike classical computers, they use quantum bits, or qubits, to perform calculations at unprecedented speeds.",
+    "image": "https://media.licdn.com/dms/image/D4E12AQFgCxQrL1Mt0A/article-cover_image-shrink_720_1280/0/1676353795154?e=2147483647&v=beta&t=XIcCstAHgB-zex6V7mWzxLz3WwIyNJqr3ng-yP8aXQw",
+    "author": "David Green",
+    "cardType": "medium"
+  },
+  {
+    "id": 6,
+    "createdAt": "2024-09-30",
+    "title": "Climate Change and Technology",
+    "text": "Technological innovations are helping to mitigate the impacts of climate change by improving energy efficiency and reducing emissions. Renewable energy sources and smart grid technology are key players in this global effort.",
+    "image": "https://i0.wp.com/www.ictworks.org/wp-content/uploads/2020/01/climate-change-ict4d-digital-technology.png?fit=640%2C370&ssl=1",
+    "author": "Emily White",
+    "cardType": "small"
+  },
+  {
+    "id": 7,
+    "createdAt": "2024-09-29",
+    "title": "The Impact of 5G Networks",
+    "text": "5G networks are providing faster, more reliable internet connections, enabling new innovations like autonomous vehicles and smart cities. As more countries roll out 5G infrastructure, the way we communicate and interact with technology is set to change dramatically.",
+    "image": "https://media.licdn.com/dms/image/D5612AQHdzR1XgIlwcA/article-cover_image-shrink_600_2000/0/1706946036094?e=2147483647&v=beta&t=3asfuApBipk1nZcoW7eHduhcjD4Q8xkjpHlblDYFHds",
+    "author": "Chris Brown",
+    "cardType": "small"
+  },
+  {
+    "id": 8,
+    "createdAt": "2024-09-28",
+    "title": "Advancements in Robotics",
+    "text": "From industrial automation to healthcare, robotics technology is playing an increasingly important role. With AI integration, robots are becoming smarter and more capable, transforming industries like manufacturing and even personal care.",
+    "image": "https://media.licdn.com/dms/image/D4E12AQEmz0dgPMyKhw/article-cover_image-shrink_720_1280/0/1683268290585?e=2147483647&v=beta&t=oZn2nNR_8EXavZDp_OlZdQR8naqbn16QM_LgCxHWXiA",
+    "author": "Laura Wilson",
+    "cardType": "small"
+  },
+  {
+    "id": 9,
+    "createdAt": "2024-09-27",
+    "title": "Cybersecurity in the Modern World",
+    "text": "As cyber threats grow more sophisticated, the importance of cybersecurity has never been greater. From individuals to large corporations, protecting sensitive information and securing systems against attacks is a top priority in today's digital landscape. Cybercriminals employ increasingly advanced techniques, making it essential for security measures to continuously evolve. Vulnerabilities in software, networks, and even human behavior provide multiple entry points for attackers, who can cause widespread damage. For businesses, a data breach can lead to financial loss, reputational damage, and legal consequences. Meanwhile, for individuals, identity theft or personal data leaks can have devastating effects on privacy and security. Governments and regulatory bodies around the world are implementing stricter laws to ensure organizations prioritize cybersecurity. However, even with regulations in place, it's ultimately the responsibility of companies and individuals to remain vigilant. Cybersecurity training, secure infrastructure, and updated security protocols play a crucial role in mitigating risks. As technology advances, the battle between cybersecurity experts and cybercriminals continues to intensify.",
+    "image": "https://www.momenta.one/hubfs/MP_enterprise_security_v4.jpg",
+    "author": "Daniel Lewis",
+    "cardType": "small"
+  },
+  {
+    "id": 10,
+    "createdAt": "2024-09-26",
+    "title": "The Growth of Electric Vehicles",
+    "text": "Electric vehicles (EVs) are rapidly gaining popularity, driven by advances in battery technology and growing environmental concerns. With major automakers committing to all-electric futures, EVs are poised to become the norm in the transportation sector.",
+    "image": "https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/dec/24dec/What-is-Electric-Vehicles.jpg",
+    "author": "Sophia Lee",
+    "cardType": "small"
+  },
+  {
+    "id": 11,
+    "createdAt": "2024-09-25",
+    "title": "Augmented Reality in Everyday Life",
+    "text": "Augmented Reality (AR) is slowly becoming a part of daily life, from enhancing shopping experiences to providing immersive educational tools. As AR technology matures, its applications in fields like entertainment, healthcare, and education are expanding rapidly.",
+    "image": "https://i0.wp.com/jpwireless.ca/wp-content/uploads/2023/11/augmented-reality.jpg?fit=1020%2C572&ssl=1",
+    "author": "James Miller",
+    "cardType": "small"
+  }
+]
